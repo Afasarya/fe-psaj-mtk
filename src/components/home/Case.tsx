@@ -36,7 +36,7 @@ const Case = () => {
   ]
 
   return (
-<section className="relative py-4 pb-20 bg-white font-jakarta"> {/* Added mb-16 */}      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<section className="relative py-20 pb-20 bg-white font-jakarta"> {/* Added mb-16 */}      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-8"> {/* reduced from mb-12 */}
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
             How It Works
